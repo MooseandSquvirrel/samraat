@@ -11,6 +11,12 @@ body {
   width: fit-content;
 }
 
+.fit-img {
+  width: 100%;
+  object-fit: cover;
+  height: 300px;
+}
+
 .landing-img {
     height: 100vh;
     width: 100vh;
