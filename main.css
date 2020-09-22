@@ -269,22 +269,16 @@ footer {
 
 @import 'https://fonts.googleapis.com/css?family=Lily+Script+One';
 
-
 .color:hover
 {
-        background-color:#e1f5c4;
-        color: #fc913a;
-      
+  background-color:#e1f5c4;
+  color: #fc913a;
 }
-
-
 
 .grow:hover
 {
-        -webkit-transform: scale(1.12);
-        -ms-transform: scale(1.12);
-        transform: scale(1.12);
-        border-radius: 10px;
-        
-
+  -webkit-transform: scale(1.12);
+  -ms-transform: scale(1.12);
+  transform: scale(1.12);
+  border-radius: 10px;
 }
