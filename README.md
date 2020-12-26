@@ -75,7 +75,6 @@ time to work on other projects in Python, Ruby, NodeJs and C.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [HTML5](https://html.com/html5/) / [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Bootstrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 
