@@ -70,8 +70,7 @@
 
 ![Samraat Home Page](imgs/samraatLanding.png)
 
-This website was a personal project to work on refamiliarizing myself with Bootstrap 4 and CSS3 after taking 
-time to work on other projects in Python, Ruby, NodeJs and C. 
+This website was a personal project to work on refamiliarizing myself with Bootstrap 4 and CSS3 after I took time to work on other projects in Python, Ruby, NodeJs and C. 
 
 ### Built With
 
@@ -83,7 +82,7 @@ time to work on other projects in Python, Ruby, NodeJs and C.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-If you would like to use this site as a template feel free to download!
+If you would like to use this site as a template for your restaurant or other project, feel free to download it!
 
 ### Prerequisites
 
@@ -103,7 +102,7 @@ If you would like to use this site as a template feel free to download!
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This project is meant for use as a restaurant's website. Add to it to increase it's utility with such features as: third-party paying modules for ordering from online, Google Maps API for geolocation, and so much more!
+This project is meant for use as a restaurant's website. Add more features to it to increase it's utility with modules such as: third-party paying APIs for ordering from online, Google Maps API for geolocation, and so much more!
 
 _For more ideas, check out the [Documentation](https://github.com/MooseandSquvirrel/samraat)_
 
